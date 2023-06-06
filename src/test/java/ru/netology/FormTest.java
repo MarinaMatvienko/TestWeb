@@ -1,4 +1,4 @@
-package ru.netology;
+package ru;
 
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
